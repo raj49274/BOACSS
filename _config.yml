@@ -22,7 +22,7 @@ title: BOACSS
 email: aditya49274@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This Blog site will explains computer concepts
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "BOACSS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
